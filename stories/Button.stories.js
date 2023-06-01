@@ -7,7 +7,7 @@ export default {
   render: ({ label, ...args }) => {
     // You can either use a function to create DOM elements or use a plain html string!
     // return `<div>${label}</div>`;
-    return createButton({ label, ...args });
+    return `<div class="storybook-button storybook-button--primary">${label}</div>`;
   },
   argTypes: {
     backgroundColor: { control: 'color' },
