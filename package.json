@@ -1,7 +1,7 @@
 {
-  "name": "cirstorybook",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@cirdfrestrepo/cirstorybook",
+  "version": "1.0.3",
+  "description": "Cir Storybook desciption repo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
