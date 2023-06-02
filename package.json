@@ -1,6 +1,6 @@
 {
   "name": "@cirdfrestrepo/cirstorybook",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Cir Storybook desciption repo",
   "main": "index.js",
   "scripts": {
